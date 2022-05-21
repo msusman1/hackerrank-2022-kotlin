@@ -1,9 +1,9 @@
-import day1.plusMinus
-import java.util.Arrays
+import java.util.Scanner
+import kotlin.math.sign
 
+import java.io.*
+import java.util.*
 
-fun main(args:Array<String>){
-    println("hello world")
-    plusMinus(arrayOf(-4 ,-9 ,-9 ,0 ,4, -1 ))
+fun main(args: Array<String>) {
+
 }
-
